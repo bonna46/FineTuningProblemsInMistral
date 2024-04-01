@@ -1,7 +1,7 @@
 # FineTuningProblemsInMistral
 ## Make virtual environment and install them
-sudo pip3 install pytorch
-sudo pip3 install ipywidget
+### sudo pip3 install pytorch
+### sudo pip3 install ipywidget
 
 ## Connecting with Jupyter through server
 1.ssh into the server [ command -> " ssh username@ip-address "]
